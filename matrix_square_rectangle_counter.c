@@ -246,6 +246,6 @@ int main(){
                         {1, 3, 2, 2, 2},
                         {3, 3, 1, 3, 3}};
     int count = count_squares_and_rectangles(matrix);
-    printf("\n THE MINIMUM AMOUNT OF SQUARES IS: %d\n", count);
+    printf("\n THE MINIMUM AMOUNT OF SQUARES AND RECTANGLES IS: %d\n", count);
     return 0;
 }
